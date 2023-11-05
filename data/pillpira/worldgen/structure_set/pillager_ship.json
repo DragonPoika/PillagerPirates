@@ -1,0 +1,16 @@
+{
+  "structures": [
+    {
+      "structure": "pillpira:pillager_ship",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "frequency_reduction_method": "legacy_type_1",
+    "frequency": 0.2,
+    "spacing": 32,
+    "separation": 8,
+    "salt": 602745884
+  }
+}
