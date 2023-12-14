@@ -1,0 +1,68 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [24, 24],
+	"textures": {
+		"0": "pillpira:item/pirate_hook",
+		"particle": "pillpira:item/pirate_hook"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [4, 5, 4],
+			"faces": {
+				"north": {"uv": [0, 7.33333, 2.66667, 10.66667], "texture": "#0"},
+				"east": {"uv": [0, 7.33333, 2.66667, 10.66667], "texture": "#0"},
+				"south": {"uv": [0, 7.33333, 2.66667, 10.66667], "texture": "#0"},
+				"west": {"uv": [0, 7.33333, 2.66667, 10.66667], "texture": "#0"},
+				"up": {"uv": [5.33333, 10, 2.66667, 7.33333], "texture": "#0"},
+				"down": {"uv": [12, 0, 9.33333, 2.66667], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-0.25, 0, -0.25],
+			"to": [4.25, 3, 4.25],
+			"faces": {
+				"north": {"uv": [9.33333, 8.66667, 12.66667, 10.66667], "texture": "#0"},
+				"east": {"uv": [9.33333, 8.66667, 12.66667, 10.66667], "texture": "#0"},
+				"south": {"uv": [9.33333, 8.66667, 12.66667, 10.66667], "texture": "#0"},
+				"west": {"uv": [9.33333, 8.66667, 12.66667, 10.66667], "texture": "#0"},
+				"up": {"uv": [3.33333, 7.33333, 0, 4], "texture": "#0"},
+				"down": {"uv": [6.66667, 4, 3.33333, 7.33333], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2, 5, 0],
+			"to": [2, 11, 5],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 4], "texture": "#0"},
+				"east": {"uv": [3.33333, 0, 0, 4], "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 4], "texture": "#0"},
+				"west": {"uv": [0, 0, 3.33333, 4], "texture": "#0"},
+				"up": {"uv": [0, 3.33333, 0, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 3.33333], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [6, 4, -5.25]
+		},
+		"firstperson_righthand": {
+			"translation": [14, 2, 0]
+		},
+		"ground": {
+			"translation": [5.5, 3.25, 6]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [-10, 3.25, 0],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"fixed": {
+			"rotation": [0, -90, 0],
+			"translation": [-7, 2.75, 6.75],
+			"scale": [1.2, 1.2, 1.2]
+		}
+	}
+}
