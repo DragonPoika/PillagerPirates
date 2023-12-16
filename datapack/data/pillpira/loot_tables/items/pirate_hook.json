@@ -1,0 +1,33 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stone_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{pillpira:{id:\"pirate_hook\"},CustomModelData:779000}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "translate": "item.pillpira.pirate_hook",
+                  "fallback": "Pirate Hook",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "pillpira:entity/pirate_hat"
+        }
+    ]
+}

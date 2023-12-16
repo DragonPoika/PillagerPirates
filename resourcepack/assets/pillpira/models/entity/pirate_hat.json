@@ -1,15 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "pillpira:entity/pirate_hat",
-		"particle": "pillpira:entity/pirate_hat"
+		"0": "pillpira:entity/pirate_hat"
 	},
 	"elements": [
 		{
-			"from": [-0.25, 2.75, -0.25],
-			"to": [8.25, 10.25, 8.25],
+			"from": [-0.25, 6.5, -0.25],
+			"to": [8.25, 9, 8.25],
 			"faces": {
-				"north": {"uv": [8, 0, 16, 7], "texture": "#0"},
+				"north": {"uv": [8, 4.5, 16, 7], "texture": "#0"},
 				"east": {"uv": [16, 7, 16, 7], "texture": "#0"},
 				"south": {"uv": [16, 7, 16, 7], "texture": "#0"},
 				"west": {"uv": [16, 7, 16, 7], "texture": "#0"},
@@ -44,8 +43,8 @@
 	],
 	"display": {
 		"head": {
-			"translation": [6, 0, 6],
-			"scale": [1.5, 1.5, 1.5]
+			"translation": [6.5, 0, 6],
+			"scale": [1.62, 1.6, 1.6]
 		}
 	}
 }
