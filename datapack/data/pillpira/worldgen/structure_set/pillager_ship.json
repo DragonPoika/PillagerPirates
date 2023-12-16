@@ -3,6 +3,10 @@
     {
       "structure": "pillpira:pillager_ship",
       "weight": 1
+    },
+    {
+      "structure": "pillpira:pillager_ship_with_brig",
+      "weight": 1
     }
   ],
   "placement": {

@@ -5,15 +5,23 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:crossbow"
+                    "name": "minecraft:crossbow",
+                    "weight": 10
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:iron_sword"
+                    "name": "minecraft:iron_sword",
+                    "weight": 10
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:spyglass",
+                    "weight": 2
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "name": "pillpira:items/pirate_hook"
+                    "name": "pillpira:items/pirate_hook",
+                    "weight": 13
                 }
             ]
         }
