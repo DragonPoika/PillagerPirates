@@ -24,6 +24,27 @@
                   "italic": false
                 }
               ]
+            },
+            {
+                "function": "minecraft:set_lore",
+                "lore": [
+                  [
+                    {
+                      "translate": "lore.pillpira.tooltip",
+                      "color": "white",
+                      "font": "pillpira:tooltip",
+                      "italic": false
+                    },
+                    {
+                      "text": " "
+                    },
+                    {
+                      "translate": "pack.pillpira",
+                      "font": "minecraft:default",
+                      "color": "blue"
+                    }
+                  ]
+                ]
             }
           ]
         }
