@@ -1,8 +1,9 @@
 {
     "sources": [
         {
-            "type": "single",
-            "resource": "pillpira:entity/pirate_hat"
+            "type": "directory",
+            "source": "pillpira:entity",
+            "prefix": "pillpira:entity/"
         }
     ]
 }
