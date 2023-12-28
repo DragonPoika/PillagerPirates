@@ -2,8 +2,8 @@
     "sources": [
         {
             "type": "directory",
-            "source": "pillpira:entity",
-            "prefix": "pillpira:entity/"
+            "source": "entity",
+            "prefix": "entity/"
         }
     ]
 }
