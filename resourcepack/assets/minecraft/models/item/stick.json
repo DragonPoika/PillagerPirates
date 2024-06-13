@@ -5,7 +5,6 @@
     },
       
       "overrides": [
-        {"predicate": {"custom_model_data":779000}, "model": "pillpira:entity/pirate_hat"},
-        {"predicate": {"custom_model_data":779001}, "model": "pillpira:entity/pirate_banner"}
+        {"predicate": {"custom_model_data":779000}, "model": "pillpira:entity/pirate_hat"}
       ]
   }

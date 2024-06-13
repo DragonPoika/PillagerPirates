@@ -1,0 +1,1 @@
+advancement revoke @a only pillpira:technical/enter_skeleton_ship

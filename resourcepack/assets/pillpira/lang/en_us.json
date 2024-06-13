@@ -2,11 +2,11 @@
     "lore.pillpira.tooltip": "\ua000",
     "pack.pillpira": "Pillager Pirates",
 
-    "chat.greenery.load": "Thanks for downloading %s\nIf you need help, check these links:\n",
-    "chat.greenery.dot": "§r ・",
-    "chat.greenery.links.discord": " §nDiscord\n",
-    "chat.greenery.links.smithed": " §nSmithed\n",
-    "chat.greenery.links.github": " §nGithub\n",
+    "chat.pillpira.load": "Thanks for downloading %s\nIf you need help, check these links:\n",
+    "chat.pillpira.dot": "§r ・",
+    "chat.pillpira.links.discord": " §nDiscord\n",
+    "chat.pillpira.links.smithed": " §nSmithed\n",
+    "chat.pillpira.links.github": " §nGithub\n",
 
     "item.pillpira.pirate_hook": "Pirate Hook"
 }

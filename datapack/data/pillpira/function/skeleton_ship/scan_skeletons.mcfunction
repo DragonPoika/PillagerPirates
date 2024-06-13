@@ -1,0 +1,1 @@
+execute unless entity @e[type=skeleton,distance=..30] at @s run function pillpira:skeleton_ship/event_end

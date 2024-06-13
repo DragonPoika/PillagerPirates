@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:skeleton",
+          "nbt": "{Tags:[\"pillpira.skeleton_pirate\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "pillpira:skeleton_ship/locate_lantern"
+  }
+}

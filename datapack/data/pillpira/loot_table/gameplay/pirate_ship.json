@@ -1,0 +1,24 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "minecraft:chests/shipwreck_treasure",
+                    "weight": 50
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "minecraft:chests/shipwreck_map",
+                    "weight": 10
+                },
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "pillpira:gameplay/pirate_weapons",
+                    "weight": 25
+                }
+            ]
+        }
+    ]
+}

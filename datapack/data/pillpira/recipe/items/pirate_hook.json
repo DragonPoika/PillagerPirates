@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      " cc",
+      "  c",
+      " C "
+  ],
+  "key": {
+      "c": {
+          "item": "minecraft:copper_ingot"
+      },
+      "C": {
+          "item": "minecraft:copper_block"
+      }
+  },
+  "result": {
+    "id": "minecraft:stone_sword",
+    "count": 1,
+    "components": {
+      "minecraft:custom_model_data": 795000,
+      "minecraft:custom_data": {
+        "pillpira": {
+          "id": "pirate_hook"
+        }
+      },
+      "minecraft:item_name": "{\"translate\":\"item.pillpira.pirate_hook\"}",
+      "minecraft:lore": [
+        "[{\"translate\": \"lore.pillpira.tooltip\",\"color\": \"white\",\"font\": \"pillpira:tooltip\",\"italic\": false},{\"text\": \" \"},{\"translate\": \"pack.pillpira\",\"color\": \"blue\",\"font\": \"minecraft:default\"}]"
+      ]
+    }
+  }
+}

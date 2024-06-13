@@ -1,0 +1,16 @@
+{
+  "structures": [
+    {
+      "structure": "pillpira:skeleton_ship",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "frequency_reduction_method": "legacy_type_1",
+    "frequency": 0.2,
+    "spacing": 64,
+    "separation": 12,
+    "salt": 727175
+  }
+}
